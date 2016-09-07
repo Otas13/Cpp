@@ -22,7 +22,7 @@ ConfigParser::ConfigParser(string name, char separator)
 
 		{"targetroot", settings::tgt_root},
 		{"targetaddress", settings::tgt_address},
-		{"targetuser", settings::sce_user},
+		{"targetuser", settings::tgt_user},
 		{"targetpass", settings::tgt_pass}
 	};
 
